@@ -30,12 +30,5 @@
             android:layout_height="wrap_content"
             android:id="@+id/tv_jam"
             android:text="Jam" />
-
-
-
     </LinearLayout>
-
-
-
-
 </androidx.cardview.widget.CardView>
